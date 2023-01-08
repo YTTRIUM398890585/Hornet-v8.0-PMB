@@ -48,4 +48,6 @@ P W G = Pink, Warm White, Green LEDs
 
 X 1 F = shut down call is initialized, SBC will shut down and power will be cut, can be cancelled by double press button but SBC might shut down anyway
 
+0 0 0 = sometimes is like this when voltage transition thru the hysteresis for low voltage flag (idk how to fix)
+
 if any other combination exists means got bug 
