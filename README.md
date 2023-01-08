@@ -1,6 +1,7 @@
 # Hornet-v8.0-PMB
 
-BUTTON_______________________________________________________________________________________________________________________________________________
+BUTTON_____________________________________________________________________________________________
+
 Press once to turn on
 
 Press twice to turn off with shut down call, or to cancel shut down call
@@ -15,7 +16,8 @@ Press four times to calibrate voltage sensor
 
 Press and hold to force shut down
 
-LED INDICATOR____________________________________________________________________________________________________________________________________________
+LED INDICATOR________________________________________________________________________________________
+
 Pink flashing/on only for a while = calibrating current/voltage sensor
 
 Pink, Warm White, Green cycle = set up finished
