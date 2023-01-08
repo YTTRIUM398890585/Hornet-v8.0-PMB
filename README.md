@@ -16,6 +16,8 @@ Press four times to calibrate voltage sensor
 
 Press and hold to force shut down
 
+
+
 LED INDICATOR________________________________________________________________________________________
 
 Pink flashing/on only for a while = calibrating current/voltage sensor
